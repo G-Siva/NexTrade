@@ -73,7 +73,7 @@ const Nav = () => {
         </div>
 
         <div className=" flex flex-row w-full justify-around p-8 text-white">
-          <Link to={'/'} className=" cursor-pointer font-black text-[20px]">
+          <Link to={'/'} className=" cursor-pointer font-black text-[26px]">
             Nex<span className=" text-red-700">Trade</span>
           </Link>
           <div className=" flex flex-row gap-10 md:hidden">
